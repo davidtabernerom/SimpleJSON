@@ -1,0 +1,17 @@
+{
+	"name": "git.bunny83.simplejson",
+	"version": "1.0.0",
+	"displayName": "SimpleJSON",
+	"description": "",
+	"documentationUrl": "https://github.com/Bunny83/SimpleJSON",
+	"unity": "2021.2",
+	"license": "MIT",
+	"dependencies": {},
+	"keywords": [
+		"scripting"
+	],
+	"author": {
+		"name": "Bunny83",
+		"url": "https://github.com/Bunny83"
+	}
+}
